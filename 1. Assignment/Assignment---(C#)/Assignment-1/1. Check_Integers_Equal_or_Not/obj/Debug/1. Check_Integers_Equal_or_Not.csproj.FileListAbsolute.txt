@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\1. Check_Integers_Equal_or_Not\bin\Debug\_1.Check_Integers_Equal_or_Not.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\1. Check_Integers_Equal_or_Not\bin\Debug\_1.Check_Integers_Equal_or_Not.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\1. Check_Integers_Equal_or_Not\bin\Debug\_1.Check_Integers_Equal_or_Not.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\1. Check_Integers_Equal_or_Not\obj\Debug\1. Check_Integers_Equal_or_Not.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\1. Check_Integers_Equal_or_Not\obj\Debug\_1.Check_Integers_Equal_or_Not.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\1. Check_Integers_Equal_or_Not\obj\Debug\_1.Check_Integers_Equal_or_Not.pdb

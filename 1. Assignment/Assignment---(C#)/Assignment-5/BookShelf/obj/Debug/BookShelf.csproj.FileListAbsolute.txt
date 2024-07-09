@@ -1,7 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\BookShelf\obj\Debug\BookShelf.csproj.AssemblyReference.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\BookShelf\obj\Debug\BookShelf.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\BookShelf\bin\Debug\BookShelf.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\BookShelf\bin\Debug\BookShelf.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\BookShelf\bin\Debug\BookShelf.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\BookShelf\obj\Debug\BookShelf.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\BookShelf\obj\Debug\BookShelf.pdb

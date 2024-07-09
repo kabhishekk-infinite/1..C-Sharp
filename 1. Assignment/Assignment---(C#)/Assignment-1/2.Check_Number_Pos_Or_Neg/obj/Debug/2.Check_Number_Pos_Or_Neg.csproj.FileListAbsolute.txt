@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\2.Check_Number_Pos_Or_Neg\bin\Debug\2.Check_Number_Pos_Or_Neg.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\2.Check_Number_Pos_Or_Neg\bin\Debug\2.Check_Number_Pos_Or_Neg.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\2.Check_Number_Pos_Or_Neg\bin\Debug\2.Check_Number_Pos_Or_Neg.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\2.Check_Number_Pos_Or_Neg\obj\Debug\2.Check_Number_Pos_Or_Neg.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\2.Check_Number_Pos_Or_Neg\obj\Debug\2.Check_Number_Pos_Or_Neg.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\2.Check_Number_Pos_Or_Neg\obj\Debug\2.Check_Number_Pos_Or_Neg.pdb

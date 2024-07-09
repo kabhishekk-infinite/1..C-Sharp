@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\5.Pattern-1_Four_Times_In_Row\bin\Debug\5.Pattern-1_Four_Times_In_Row.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\5.Pattern-1_Four_Times_In_Row\bin\Debug\5.Pattern-1_Four_Times_In_Row.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\5.Pattern-1_Four_Times_In_Row\bin\Debug\5.Pattern-1_Four_Times_In_Row.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\5.Pattern-1_Four_Times_In_Row\obj\Debug\5.Pattern-1_Four_Times_In_Row.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\5.Pattern-1_Four_Times_In_Row\obj\Debug\5.Pattern-1_Four_Times_In_Row.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\5.Pattern-1_Four_Times_In_Row\obj\Debug\5.Pattern-1_Four_Times_In_Row.pdb

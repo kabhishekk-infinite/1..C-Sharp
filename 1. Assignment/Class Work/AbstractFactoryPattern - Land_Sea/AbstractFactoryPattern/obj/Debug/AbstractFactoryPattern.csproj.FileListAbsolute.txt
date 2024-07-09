@@ -1,0 +1,14 @@
+D:\GitHub\Assignment\Assignment---(C#)\Otherz\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+D:\GitHub\Assignment\Assignment---(C#)\Otherz\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+D:\GitHub\Assignment\Assignment---(C#)\Otherz\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+D:\GitHub\Assignment\Assignment---(C#)\Otherz\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.AssemblyReference.cache
+D:\GitHub\Assignment\Assignment---(C#)\Otherz\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\GitHub\Assignment\Assignment---(C#)\Otherz\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+D:\GitHub\Assignment\Assignment---(C#)\Otherz\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+D:\GitHub\C-Sharp\1. Assignment\Class Work\AbstractFactoryPattern1\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+D:\GitHub\C-Sharp\1. Assignment\Class Work\AbstractFactoryPattern1\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+D:\GitHub\C-Sharp\1. Assignment\Class Work\AbstractFactoryPattern1\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+D:\GitHub\C-Sharp\1. Assignment\Class Work\AbstractFactoryPattern1\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp\1. Assignment\Class Work\AbstractFactoryPattern1\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp\1. Assignment\Class Work\AbstractFactoryPattern1\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+D:\GitHub\C-Sharp\1. Assignment\Class Work\AbstractFactoryPattern1\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

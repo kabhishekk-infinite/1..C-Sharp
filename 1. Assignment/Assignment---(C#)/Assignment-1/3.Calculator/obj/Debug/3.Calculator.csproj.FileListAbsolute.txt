@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\3.Calculator\bin\Debug\3.Calculator.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\3.Calculator\bin\Debug\3.Calculator.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\3.Calculator\bin\Debug\3.Calculator.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\3.Calculator\obj\Debug\3.Calculator.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\3.Calculator\obj\Debug\3.Calculator.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\3.Calculator\obj\Debug\3.Calculator.pdb

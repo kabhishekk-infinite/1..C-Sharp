@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CountNoOfOccurrences\bin\Debug\CountNoOfOccurrences.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CountNoOfOccurrences\bin\Debug\CountNoOfOccurrences.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CountNoOfOccurrences\bin\Debug\CountNoOfOccurrences.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CountNoOfOccurrences\obj\Debug\CountNoOfOccurrences.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CountNoOfOccurrences\obj\Debug\CountNoOfOccurrences.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CountNoOfOccurrences\obj\Debug\CountNoOfOccurrences.pdb

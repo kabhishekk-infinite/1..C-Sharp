@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\EmployeeDetails\bin\Debug\EmployeeDetails.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\EmployeeDetails\obj\Debug\EmployeeDetails.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\EmployeeDetails\obj\Debug\EmployeeDetails.pdb

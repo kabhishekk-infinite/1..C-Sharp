@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\OperationsWIthBox\bin\Debug\OperationsWIthBox.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\OperationsWIthBox\bin\Debug\OperationsWIthBox.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\OperationsWIthBox\bin\Debug\OperationsWIthBox.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\OperationsWIthBox\obj\Debug\OperationsWIthBox.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\OperationsWIthBox\obj\Debug\OperationsWIthBox.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\OperationsWIthBox\obj\Debug\OperationsWIthBox.pdb

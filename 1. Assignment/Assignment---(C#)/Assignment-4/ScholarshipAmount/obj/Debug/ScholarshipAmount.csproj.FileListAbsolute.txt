@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\ScholarshipAmount\bin\Debug\ScholarshipAmount.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\ScholarshipAmount\bin\Debug\ScholarshipAmount.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\ScholarshipAmount\bin\Debug\ScholarshipAmount.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\ScholarshipAmount\obj\Debug\ScholarshipAmount.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\ScholarshipAmount\obj\Debug\ScholarshipAmount.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\ScholarshipAmount\obj\Debug\ScholarshipAmount.pdb

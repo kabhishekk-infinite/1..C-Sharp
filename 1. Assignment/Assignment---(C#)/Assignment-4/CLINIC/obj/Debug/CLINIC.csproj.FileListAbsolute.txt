@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CLINIC\bin\Debug\CLINIC.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CLINIC\bin\Debug\CLINIC.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CLINIC\bin\Debug\CLINIC.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CLINIC\obj\Debug\CLINIC.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CLINIC\obj\Debug\CLINIC.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\CLINIC\obj\Debug\CLINIC.pdb

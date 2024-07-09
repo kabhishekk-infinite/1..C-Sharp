@@ -1,6 +1,0 @@
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\Interface_IStudent\bin\Debug\Interface_IStudent.exe.config
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\Interface_IStudent\bin\Debug\Interface_IStudent.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\Interface_IStudent\bin\Debug\Interface_IStudent.pdb
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\Interface_IStudent\obj\Debug\Interface_IStudent.csproj.CoreCompileInputs.cache
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\Interface_IStudent\obj\Debug\Interface_IStudent.exe
-D:\GitHub\Assignment\Assignment---(C#)\Assignment-5\Interface_IStudent\obj\Debug\Interface_IStudent.pdb
