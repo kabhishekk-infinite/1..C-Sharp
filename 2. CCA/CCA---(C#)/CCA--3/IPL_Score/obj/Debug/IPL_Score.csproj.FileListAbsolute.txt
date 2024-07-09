@@ -1,0 +1,6 @@
+D:\GitHub\CCA\CCA---(C#)\CCA--3\IPL_Score\bin\Debug\IPL_Score.exe.config
+D:\GitHub\CCA\CCA---(C#)\CCA--3\IPL_Score\bin\Debug\IPL_Score.exe
+D:\GitHub\CCA\CCA---(C#)\CCA--3\IPL_Score\bin\Debug\IPL_Score.pdb
+D:\GitHub\CCA\CCA---(C#)\CCA--3\IPL_Score\obj\Debug\IPL_Score.csproj.CoreCompileInputs.cache
+D:\GitHub\CCA\CCA---(C#)\CCA--3\IPL_Score\obj\Debug\IPL_Score.exe
+D:\GitHub\CCA\CCA---(C#)\CCA--3\IPL_Score\obj\Debug\IPL_Score.pdb

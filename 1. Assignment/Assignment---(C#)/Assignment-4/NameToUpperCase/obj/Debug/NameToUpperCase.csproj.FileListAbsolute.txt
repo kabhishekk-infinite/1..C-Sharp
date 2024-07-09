@@ -1,0 +1,7 @@
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\NameToUpperCase\bin\Debug\NameToUpperCase.exe.config
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\NameToUpperCase\bin\Debug\NameToUpperCase.exe
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\NameToUpperCase\bin\Debug\NameToUpperCase.pdb
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\NameToUpperCase\obj\Debug\NameToUpperCase.csproj.AssemblyReference.cache
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\NameToUpperCase\obj\Debug\NameToUpperCase.csproj.CoreCompileInputs.cache
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\NameToUpperCase\obj\Debug\NameToUpperCase.exe
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-4\NameToUpperCase\obj\Debug\NameToUpperCase.pdb

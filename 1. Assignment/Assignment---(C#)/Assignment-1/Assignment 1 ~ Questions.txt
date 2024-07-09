@@ -1,0 +1,20 @@
+1. Write a C# (.Net Framework ) program that takes two numbers as Input from User and Check whether they are Equal or Not and Display the Result.
+
+2. Write a C# (.Net Framework ) program that Check whether a given number is Positive or Negative and Display the Result.
+
+3. Write a C# (.Net Framework ) program that takes two Numbers as Input from User and performs Calculations (+,/,-,*) on them and Display the Result.
+
+4. Write a C# (.Net Framework ) program to Swap two Numbers and Display the Result.
+
+5. Write a C#  (.Net Framework ) program that takes a Numbers as Input from User and Displays it Four Times in a row Separated by Blank Space and then Four Times in the next Row, Without any Separation.     
+    You should do it twice: Use the Console. Write and use {0}.
+
+    Test Data:
+    Enter a digit: 25
+
+    Expected Output:
+
+    25 25 25 25
+    25252525
+    25 25 25 25
+    25252525

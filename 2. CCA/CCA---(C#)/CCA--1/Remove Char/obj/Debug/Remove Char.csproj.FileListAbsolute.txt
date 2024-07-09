@@ -1,0 +1,6 @@
+D:\GitHub\CCA\CCA---(C#)\CCA--1\Remove Char\bin\Debug\Remove Char.exe.config
+D:\GitHub\CCA\CCA---(C#)\CCA--1\Remove Char\bin\Debug\Remove Char.exe
+D:\GitHub\CCA\CCA---(C#)\CCA--1\Remove Char\bin\Debug\Remove Char.pdb
+D:\GitHub\CCA\CCA---(C#)\CCA--1\Remove Char\obj\Debug\Remove Char.csproj.CoreCompileInputs.cache
+D:\GitHub\CCA\CCA---(C#)\CCA--1\Remove Char\obj\Debug\Remove Char.exe
+D:\GitHub\CCA\CCA---(C#)\CCA--1\Remove Char\obj\Debug\Remove Char.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\4.Swap_Number\bin\Debug\4.Swap_Number.exe.config
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\4.Swap_Number\bin\Debug\4.Swap_Number.exe
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\4.Swap_Number\bin\Debug\4.Swap_Number.pdb
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\4.Swap_Number\obj\Debug\4.Swap_Number.csproj.CoreCompileInputs.cache
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\4.Swap_Number\obj\Debug\4.Swap_Number.exe
+D:\GitHub\Assignment\Assignment---(C#)\Assignment-1\4.Swap_Number\obj\Debug\4.Swap_Number.pdb

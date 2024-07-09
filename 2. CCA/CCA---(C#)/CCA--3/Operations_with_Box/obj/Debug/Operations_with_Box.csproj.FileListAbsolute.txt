@@ -1,0 +1,6 @@
+D:\GitHub\CCA\CCA---(C#)\CCA--3\Operations_with_Box\obj\Debug\Operations_with_Box.csproj.CoreCompileInputs.cache
+D:\GitHub\CCA\CCA---(C#)\CCA--3\Operations_with_Box\bin\Debug\Operations_with_Box.exe.config
+D:\GitHub\CCA\CCA---(C#)\CCA--3\Operations_with_Box\bin\Debug\Operations_with_Box.exe
+D:\GitHub\CCA\CCA---(C#)\CCA--3\Operations_with_Box\bin\Debug\Operations_with_Box.pdb
+D:\GitHub\CCA\CCA---(C#)\CCA--3\Operations_with_Box\obj\Debug\Operations_with_Box.exe
+D:\GitHub\CCA\CCA---(C#)\CCA--3\Operations_with_Box\obj\Debug\Operations_with_Box.pdb

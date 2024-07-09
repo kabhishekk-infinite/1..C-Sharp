@@ -1,0 +1,7 @@
+D:\GitHub\CCA\CCA---(C#)\CCA--3\CCA--3\bin\Debug\CCA--3.exe.config
+D:\GitHub\CCA\CCA---(C#)\CCA--3\CCA--3\bin\Debug\CCA--3.exe
+D:\GitHub\CCA\CCA---(C#)\CCA--3\CCA--3\bin\Debug\CCA--3.pdb
+D:\GitHub\CCA\CCA---(C#)\CCA--3\CCA--3\obj\Debug\CCA--3.csproj.AssemblyReference.cache
+D:\GitHub\CCA\CCA---(C#)\CCA--3\CCA--3\obj\Debug\CCA--3.csproj.CoreCompileInputs.cache
+D:\GitHub\CCA\CCA---(C#)\CCA--3\CCA--3\obj\Debug\CCA--3.exe
+D:\GitHub\CCA\CCA---(C#)\CCA--3\CCA--3\obj\Debug\CCA--3.pdb
