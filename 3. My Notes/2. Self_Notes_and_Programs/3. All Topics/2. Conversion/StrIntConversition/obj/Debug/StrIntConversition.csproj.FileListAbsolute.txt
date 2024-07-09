@@ -1,0 +1,7 @@
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\2. Conversion\StrIntConversition\bin\Debug\StrIntConversition.exe.config
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\2. Conversion\StrIntConversition\bin\Debug\StrIntConversition.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\2. Conversion\StrIntConversition\bin\Debug\StrIntConversition.pdb
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\2. Conversion\StrIntConversition\obj\Debug\StrIntConversition.csproj.AssemblyReference.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\2. Conversion\StrIntConversition\obj\Debug\StrIntConversition.csproj.CoreCompileInputs.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\2. Conversion\StrIntConversition\obj\Debug\StrIntConversition.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\2. Conversion\StrIntConversition\obj\Debug\StrIntConversition.pdb

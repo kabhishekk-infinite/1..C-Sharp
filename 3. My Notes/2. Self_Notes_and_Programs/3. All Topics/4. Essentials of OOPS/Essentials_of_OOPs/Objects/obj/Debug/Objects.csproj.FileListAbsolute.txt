@@ -1,0 +1,7 @@
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Objects\bin\Debug\Objects.exe.config
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Objects\bin\Debug\Objects.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Objects\bin\Debug\Objects.pdb
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Objects\obj\Debug\Objects.csproj.AssemblyReference.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Objects\obj\Debug\Objects.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Objects\obj\Debug\Objects.pdb

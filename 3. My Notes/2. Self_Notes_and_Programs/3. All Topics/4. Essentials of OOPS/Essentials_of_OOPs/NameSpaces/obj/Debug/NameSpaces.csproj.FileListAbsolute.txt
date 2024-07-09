@@ -1,0 +1,7 @@
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\NameSpaces\bin\Debug\NameSpaces.exe.config
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\NameSpaces\bin\Debug\NameSpaces.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\NameSpaces\bin\Debug\NameSpaces.pdb
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\NameSpaces\obj\Debug\NameSpaces.csproj.AssemblyReference.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\NameSpaces\obj\Debug\NameSpaces.csproj.CoreCompileInputs.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\NameSpaces\obj\Debug\NameSpaces.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\NameSpaces\obj\Debug\NameSpaces.pdb

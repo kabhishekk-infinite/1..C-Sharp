@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp\2. CCA\CCA-1\CCA-1\bin\Debug\CCA-1.exe.config
+D:\GitHub\C-Sharp\2. CCA\CCA-1\CCA-1\bin\Debug\CCA-1.exe
+D:\GitHub\C-Sharp\2. CCA\CCA-1\CCA-1\bin\Debug\CCA-1.pdb
+D:\GitHub\C-Sharp\2. CCA\CCA-1\CCA-1\obj\Debug\CCA-1.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp\2. CCA\CCA-1\CCA-1\obj\Debug\CCA-1.exe
+D:\GitHub\C-Sharp\2. CCA\CCA-1\CCA-1\obj\Debug\CCA-1.pdb
+D:\GitHub\C-Sharp\2. CCA\CCA-1\CCA-1\obj\Debug\CCA-1.csproj.AssemblyReference.cache

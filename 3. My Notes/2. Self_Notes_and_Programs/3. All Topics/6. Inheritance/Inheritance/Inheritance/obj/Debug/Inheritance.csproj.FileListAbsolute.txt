@@ -1,0 +1,7 @@
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

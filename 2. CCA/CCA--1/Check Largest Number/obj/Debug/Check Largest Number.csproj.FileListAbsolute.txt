@@ -1,6 +1,0 @@
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Check Largest Number\bin\Debug\Check Largest Number.exe.config
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Check Largest Number\bin\Debug\Check Largest Number.exe
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Check Largest Number\bin\Debug\Check Largest Number.pdb
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Check Largest Number\obj\Debug\Check Largest Number.csproj.CoreCompileInputs.cache
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Check Largest Number\obj\Debug\Check Largest Number.exe
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Check Largest Number\obj\Debug\Check Largest Number.pdb

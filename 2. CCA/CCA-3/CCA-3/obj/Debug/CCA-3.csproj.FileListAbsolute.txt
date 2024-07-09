@@ -1,0 +1,6 @@
+D:\GitHub\C-Sharp\2. CCA\CCA-3\CCA-3\obj\Debug\CCA-3.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp\2. CCA\CCA-3\CCA-3\bin\Debug\CCA-3.exe.config
+D:\GitHub\C-Sharp\2. CCA\CCA-3\CCA-3\bin\Debug\CCA-3.exe
+D:\GitHub\C-Sharp\2. CCA\CCA-3\CCA-3\bin\Debug\CCA-3.pdb
+D:\GitHub\C-Sharp\2. CCA\CCA-3\CCA-3\obj\Debug\CCA-3.exe
+D:\GitHub\C-Sharp\2. CCA\CCA-3\CCA-3\obj\Debug\CCA-3.pdb

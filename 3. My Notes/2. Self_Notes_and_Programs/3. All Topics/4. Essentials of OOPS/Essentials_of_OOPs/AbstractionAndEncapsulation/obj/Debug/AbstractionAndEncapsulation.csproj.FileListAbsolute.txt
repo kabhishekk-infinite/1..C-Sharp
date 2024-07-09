@@ -1,0 +1,6 @@
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\AbstractionAndEncapsulation\bin\Debug\AbstractionAndEncapsulation.exe.config
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\AbstractionAndEncapsulation\bin\Debug\AbstractionAndEncapsulation.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\AbstractionAndEncapsulation\bin\Debug\AbstractionAndEncapsulation.pdb
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\AbstractionAndEncapsulation\obj\Debug\AbstractionAndEncapsulation.csproj.CoreCompileInputs.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\AbstractionAndEncapsulation\obj\Debug\AbstractionAndEncapsulation.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\AbstractionAndEncapsulation\obj\Debug\AbstractionAndEncapsulation.pdb

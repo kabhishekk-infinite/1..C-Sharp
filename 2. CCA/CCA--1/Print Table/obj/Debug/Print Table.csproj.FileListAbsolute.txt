@@ -1,6 +1,0 @@
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Print Table\bin\Debug\Print Table.exe.config
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Print Table\bin\Debug\Print Table.exe
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Print Table\bin\Debug\Print Table.pdb
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Print Table\obj\Debug\Print Table.csproj.CoreCompileInputs.cache
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Print Table\obj\Debug\Print Table.exe
-D:\GitHub\CCA\CCA---(C#)\CCA--1\Print Table\obj\Debug\Print Table.pdb

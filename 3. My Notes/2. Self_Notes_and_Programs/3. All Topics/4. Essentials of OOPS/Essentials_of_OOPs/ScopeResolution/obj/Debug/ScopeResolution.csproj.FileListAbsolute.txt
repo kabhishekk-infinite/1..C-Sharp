@@ -1,0 +1,7 @@
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\ScopeResolution\bin\Debug\ScopeResolution.exe.config
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\ScopeResolution\bin\Debug\ScopeResolution.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\ScopeResolution\bin\Debug\ScopeResolution.pdb
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\ScopeResolution\obj\Debug\ScopeResolution.csproj.AssemblyReference.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\ScopeResolution\obj\Debug\ScopeResolution.csproj.CoreCompileInputs.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\ScopeResolution\obj\Debug\ScopeResolution.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\ScopeResolution\obj\Debug\ScopeResolution.pdb

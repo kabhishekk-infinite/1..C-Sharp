@@ -1,0 +1,7 @@
+D:\GitHub\C#\2. My Practise\1. Module\Module - 7\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe.config
+D:\GitHub\C#\2. My Practise\1. Module\Module - 7\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe
+D:\GitHub\C#\2. My Practise\1. Module\Module - 7\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.pdb
+D:\GitHub\C#\2. My Practise\1. Module\Module - 7\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+D:\GitHub\C#\2. My Practise\1. Module\Module - 7\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\2. My Practise\1. Module\Module - 7\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.exe
+D:\GitHub\C#\2. My Practise\1. Module\Module - 7\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.pdb

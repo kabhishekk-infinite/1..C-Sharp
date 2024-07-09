@@ -1,0 +1,7 @@
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\3. Loops\LoopProgs\LoopProgs\bin\Debug\LoopProgs.exe.config
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\3. Loops\LoopProgs\LoopProgs\bin\Debug\LoopProgs.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\3. Loops\LoopProgs\LoopProgs\bin\Debug\LoopProgs.pdb
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\3. Loops\LoopProgs\LoopProgs\obj\Debug\LoopProgs.csproj.AssemblyReference.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\3. Loops\LoopProgs\LoopProgs\obj\Debug\LoopProgs.csproj.CoreCompileInputs.cache
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\3. Loops\LoopProgs\LoopProgs\obj\Debug\LoopProgs.exe
+D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\3. Loops\LoopProgs\LoopProgs\obj\Debug\LoopProgs.pdb

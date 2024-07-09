@@ -1,0 +1,7 @@
+D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\WelcomeProgram\WelcomeProgram\bin\Debug\WelcomeProgram.exe.config
+D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\WelcomeProgram\WelcomeProgram\bin\Debug\WelcomeProgram.exe
+D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\WelcomeProgram\WelcomeProgram\bin\Debug\WelcomeProgram.pdb
+D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\WelcomeProgram\WelcomeProgram\obj\Debug\WelcomeProgram.csproj.AssemblyReference.cache
+D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\WelcomeProgram\WelcomeProgram\obj\Debug\WelcomeProgram.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\WelcomeProgram\WelcomeProgram\obj\Debug\WelcomeProgram.exe
+D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\WelcomeProgram\WelcomeProgram\obj\Debug\WelcomeProgram.pdb

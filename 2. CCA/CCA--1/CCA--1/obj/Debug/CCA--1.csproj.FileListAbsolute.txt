@@ -1,7 +1,0 @@
-D:\GitHub\CCA\CCA---(C#)\CCA--1\CCA--1\bin\Debug\CCA--1.exe.config
-D:\GitHub\CCA\CCA---(C#)\CCA--1\CCA--1\bin\Debug\CCA--1.exe
-D:\GitHub\CCA\CCA---(C#)\CCA--1\CCA--1\bin\Debug\CCA--1.pdb
-D:\GitHub\CCA\CCA---(C#)\CCA--1\CCA--1\obj\Debug\CCA--1.csproj.AssemblyReference.cache
-D:\GitHub\CCA\CCA---(C#)\CCA--1\CCA--1\obj\Debug\CCA--1.csproj.CoreCompileInputs.cache
-D:\GitHub\CCA\CCA---(C#)\CCA--1\CCA--1\obj\Debug\CCA--1.exe
-D:\GitHub\CCA\CCA---(C#)\CCA--1\CCA--1\obj\Debug\CCA--1.pdb

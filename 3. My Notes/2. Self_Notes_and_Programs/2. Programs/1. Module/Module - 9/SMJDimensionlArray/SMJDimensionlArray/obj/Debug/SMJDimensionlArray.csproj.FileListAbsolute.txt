@@ -1,0 +1,6 @@
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\SMJDimensionlArray\SMJDimensionlArray\bin\Debug\SMJDimensionlArray.exe.config
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\SMJDimensionlArray\SMJDimensionlArray\bin\Debug\SMJDimensionlArray.exe
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\SMJDimensionlArray\SMJDimensionlArray\bin\Debug\SMJDimensionlArray.pdb
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\SMJDimensionlArray\SMJDimensionlArray\obj\Debug\SMJDimensionlArray.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\SMJDimensionlArray\SMJDimensionlArray\obj\Debug\SMJDimensionlArray.exe
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\SMJDimensionlArray\SMJDimensionlArray\obj\Debug\SMJDimensionlArray.pdb

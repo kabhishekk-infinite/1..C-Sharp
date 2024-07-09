@@ -1,0 +1,7 @@
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\StringHandling\StringHandling\bin\Debug\StringHandling.exe
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\StringHandling\StringHandling\obj\Debug\StringHandling.csproj.AssemblyReference.cache
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\StringHandling\StringHandling\obj\Debug\StringHandling.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\StringHandling\StringHandling\obj\Debug\StringHandling.exe
+D:\GitHub\C#\2. My Practise\1. Module\Module - 9\StringHandling\StringHandling\obj\Debug\StringHandling.pdb
