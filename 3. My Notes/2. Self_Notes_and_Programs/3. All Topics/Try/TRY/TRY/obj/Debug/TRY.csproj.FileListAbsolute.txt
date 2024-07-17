@@ -1,2 +1,0 @@
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Try\TRY\TRY\obj\Debug\TRY.csproj.AssemblyReference.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Try\TRY\TRY\obj\Debug\TRY.csproj.CoreCompileInputs.cache

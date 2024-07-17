@@ -1,7 +1,0 @@
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe.config
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.pdb
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.AssemblyReference.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.CoreCompileInputs.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.pdb

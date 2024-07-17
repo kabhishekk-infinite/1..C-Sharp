@@ -1,7 +1,0 @@
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Classes\bin\Debug\Classes.exe.config
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Classes\bin\Debug\Classes.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Classes\bin\Debug\Classes.pdb
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Classes\obj\Debug\Classes.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\4. Essentials of OOPS\Essentials_of_OOPs\Classes\obj\Debug\Classes.pdb

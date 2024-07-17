@@ -1,6 +1,0 @@
-D:\GitHub\C#(.net framework) Programs\2. Basic Program\2. IntOrCharAsInput\2. IntOrCharAsInput\obj\Debug\2. IntOrCharAsInput.csproj.CoreCompileInputs.cache
-D:\GitHub\C#(.net framework) Programs\2. Basic Program\2. IntOrCharAsInput\2. IntOrCharAsInput\bin\Debug\_2.IntOrCharAsInput.exe.config
-D:\GitHub\C#(.net framework) Programs\2. Basic Program\2. IntOrCharAsInput\2. IntOrCharAsInput\bin\Debug\_2.IntOrCharAsInput.exe
-D:\GitHub\C#(.net framework) Programs\2. Basic Program\2. IntOrCharAsInput\2. IntOrCharAsInput\bin\Debug\_2.IntOrCharAsInput.pdb
-D:\GitHub\C#(.net framework) Programs\2. Basic Program\2. IntOrCharAsInput\2. IntOrCharAsInput\obj\Debug\_2.IntOrCharAsInput.exe
-D:\GitHub\C#(.net framework) Programs\2. Basic Program\2. IntOrCharAsInput\2. IntOrCharAsInput\obj\Debug\_2.IntOrCharAsInput.pdb

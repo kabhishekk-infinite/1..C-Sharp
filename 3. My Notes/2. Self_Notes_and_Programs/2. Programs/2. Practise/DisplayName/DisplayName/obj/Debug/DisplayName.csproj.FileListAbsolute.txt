@@ -1,7 +1,0 @@
-D:\GitHub\C#(.net framework) Programs\Basic Program\DisplayName\DisplayName\bin\Debug\DisplayName.exe.config
-D:\GitHub\C#(.net framework) Programs\Basic Program\DisplayName\DisplayName\bin\Debug\DisplayName.exe
-D:\GitHub\C#(.net framework) Programs\Basic Program\DisplayName\DisplayName\bin\Debug\DisplayName.pdb
-D:\GitHub\C#(.net framework) Programs\Basic Program\DisplayName\DisplayName\obj\Debug\DisplayName.csproj.AssemblyReference.cache
-D:\GitHub\C#(.net framework) Programs\Basic Program\DisplayName\DisplayName\obj\Debug\DisplayName.csproj.CoreCompileInputs.cache
-D:\GitHub\C#(.net framework) Programs\Basic Program\DisplayName\DisplayName\obj\Debug\DisplayName.exe
-D:\GitHub\C#(.net framework) Programs\Basic Program\DisplayName\DisplayName\obj\Debug\DisplayName.pdb

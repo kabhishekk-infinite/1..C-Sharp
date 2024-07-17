@@ -1,7 +1,0 @@
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\InputAndOutput\InputAndOutput\bin\Debug\InputAndOutput.exe.config
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\InputAndOutput\InputAndOutput\bin\Debug\InputAndOutput.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\InputAndOutput\InputAndOutput\bin\Debug\InputAndOutput.pdb
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\InputAndOutput\InputAndOutput\obj\Debug\InputAndOutput.csproj.CoreCompileInputs.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\InputAndOutput\InputAndOutput\obj\Debug\InputAndOutput.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\InputAndOutput\InputAndOutput\obj\Debug\InputAndOutput.pdb
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\InputAndOutput\InputAndOutput\obj\Debug\InputAndOutput.csproj.AssemblyReference.cache
