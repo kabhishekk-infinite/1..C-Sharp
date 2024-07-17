@@ -1,7 +1,0 @@
-D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\Input_Output_Program1\Input_Output_Program1\bin\Debug\Input_Output_Program1.exe.config
-D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\Input_Output_Program1\Input_Output_Program1\bin\Debug\Input_Output_Program1.exe
-D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\Input_Output_Program1\Input_Output_Program1\bin\Debug\Input_Output_Program1.pdb
-D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\Input_Output_Program1\Input_Output_Program1\obj\Debug\Input_Output_Program1.csproj.AssemblyReference.cache
-D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\Input_Output_Program1\Input_Output_Program1\obj\Debug\Input_Output_Program1.csproj.CoreCompileInputs.cache
-D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\Input_Output_Program1\Input_Output_Program1\obj\Debug\Input_Output_Program1.exe
-D:\GitHub\Csharp_with_DotNet_Framework-ICS\3. C# Programs - By Me\1. Module\Module - 5\Input_Output_Program1\Input_Output_Program1\obj\Debug\Input_Output_Program1.pdb

@@ -1,7 +1,0 @@
-D:\GitHub\C#\2. My Practise\1. Module\Module - 7\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.exe.config
-D:\GitHub\C#\2. My Practise\1. Module\Module - 7\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.exe
-D:\GitHub\C#\2. My Practise\1. Module\Module - 7\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.pdb
-D:\GitHub\C#\2. My Practise\1. Module\Module - 7\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csproj.AssemblyReference.cache
-D:\GitHub\C#\2. My Practise\1. Module\Module - 7\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csproj.CoreCompileInputs.cache
-D:\GitHub\C#\2. My Practise\1. Module\Module - 7\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.exe
-D:\GitHub\C#\2. My Practise\1. Module\Module - 7\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.pdb

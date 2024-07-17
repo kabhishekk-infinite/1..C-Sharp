@@ -1,6 +1,0 @@
-D:\GitHub\C#\2. My Practise\1. Module\Module - 6\ImplicitAndExplicit\ImplicitAndExplicit\bin\Debug\ImplicitAndExplicit.exe.config
-D:\GitHub\C#\2. My Practise\1. Module\Module - 6\ImplicitAndExplicit\ImplicitAndExplicit\bin\Debug\ImplicitAndExplicit.exe
-D:\GitHub\C#\2. My Practise\1. Module\Module - 6\ImplicitAndExplicit\ImplicitAndExplicit\bin\Debug\ImplicitAndExplicit.pdb
-D:\GitHub\C#\2. My Practise\1. Module\Module - 6\ImplicitAndExplicit\ImplicitAndExplicit\obj\Debug\ImplicitAndExplicit.csproj.CoreCompileInputs.cache
-D:\GitHub\C#\2. My Practise\1. Module\Module - 6\ImplicitAndExplicit\ImplicitAndExplicit\obj\Debug\ImplicitAndExplicit.exe
-D:\GitHub\C#\2. My Practise\1. Module\Module - 6\ImplicitAndExplicit\ImplicitAndExplicit\obj\Debug\ImplicitAndExplicit.pdb

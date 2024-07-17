@@ -1,7 +1,0 @@
-D:\GitHub\C#(.net framework) Programs\Basic Program\1. PrintHello\1. PrintHello\bin\Debug\_1.PrintHello.exe.config
-D:\GitHub\C#(.net framework) Programs\Basic Program\1. PrintHello\1. PrintHello\bin\Debug\_1.PrintHello.exe
-D:\GitHub\C#(.net framework) Programs\Basic Program\1. PrintHello\1. PrintHello\bin\Debug\_1.PrintHello.pdb
-D:\GitHub\C#(.net framework) Programs\Basic Program\1. PrintHello\1. PrintHello\obj\Debug\1. PrintHello.csproj.AssemblyReference.cache
-D:\GitHub\C#(.net framework) Programs\Basic Program\1. PrintHello\1. PrintHello\obj\Debug\1. PrintHello.csproj.CoreCompileInputs.cache
-D:\GitHub\C#(.net framework) Programs\Basic Program\1. PrintHello\1. PrintHello\obj\Debug\_1.PrintHello.exe
-D:\GitHub\C#(.net framework) Programs\Basic Program\1. PrintHello\1. PrintHello\obj\Debug\_1.PrintHello.pdb

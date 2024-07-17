@@ -1,7 +1,0 @@
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\All_Array\2D_Array\bin\Debug\2D_Array.exe.config
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\All_Array\2D_Array\bin\Debug\2D_Array.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\All_Array\2D_Array\bin\Debug\2D_Array.pdb
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\All_Array\2D_Array\obj\Debug\2D_Array.csproj.CoreCompileInputs.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\All_Array\2D_Array\obj\Debug\2D_Array.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\All_Array\2D_Array\obj\Debug\2D_Array.pdb
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\5.Array\All_Array\2D_Array\obj\Debug\2D_Array.csproj.AssemblyReference.cache

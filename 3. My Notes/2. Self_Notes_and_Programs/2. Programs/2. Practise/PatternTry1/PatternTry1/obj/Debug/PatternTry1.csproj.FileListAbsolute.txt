@@ -1,7 +1,0 @@
-D:\GitHub\C#(.net framework) Programs\Basic Program\PatternTry1\PatternTry1\bin\Debug\PatternTry1.exe.config
-D:\GitHub\C#(.net framework) Programs\Basic Program\PatternTry1\PatternTry1\bin\Debug\PatternTry1.exe
-D:\GitHub\C#(.net framework) Programs\Basic Program\PatternTry1\PatternTry1\bin\Debug\PatternTry1.pdb
-D:\GitHub\C#(.net framework) Programs\Basic Program\PatternTry1\PatternTry1\obj\Debug\PatternTry1.csproj.AssemblyReference.cache
-D:\GitHub\C#(.net framework) Programs\Basic Program\PatternTry1\PatternTry1\obj\Debug\PatternTry1.csproj.CoreCompileInputs.cache
-D:\GitHub\C#(.net framework) Programs\Basic Program\PatternTry1\PatternTry1\obj\Debug\PatternTry1.exe
-D:\GitHub\C#(.net framework) Programs\Basic Program\PatternTry1\PatternTry1\obj\Debug\PatternTry1.pdb

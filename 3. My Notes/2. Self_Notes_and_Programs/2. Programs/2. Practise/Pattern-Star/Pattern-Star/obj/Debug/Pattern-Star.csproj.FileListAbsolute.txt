@@ -1,6 +1,0 @@
-D:\GitHub\C#(.net framework) Programs\Basic Program\Pattern-Star\Pattern-Star\obj\Debug\Pattern-Star.csproj.CoreCompileInputs.cache
-D:\GitHub\C#(.net framework) Programs\Basic Program\Pattern-Star\Pattern-Star\bin\Debug\Pattern-Star.exe.config
-D:\GitHub\C#(.net framework) Programs\Basic Program\Pattern-Star\Pattern-Star\bin\Debug\Pattern-Star.exe
-D:\GitHub\C#(.net framework) Programs\Basic Program\Pattern-Star\Pattern-Star\bin\Debug\Pattern-Star.pdb
-D:\GitHub\C#(.net framework) Programs\Basic Program\Pattern-Star\Pattern-Star\obj\Debug\Pattern-Star.exe
-D:\GitHub\C#(.net framework) Programs\Basic Program\Pattern-Star\Pattern-Star\obj\Debug\Pattern-Star.pdb

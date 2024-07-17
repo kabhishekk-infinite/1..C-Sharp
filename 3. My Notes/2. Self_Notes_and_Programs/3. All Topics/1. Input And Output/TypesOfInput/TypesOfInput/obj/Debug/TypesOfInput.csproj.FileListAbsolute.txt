@@ -1,7 +1,0 @@
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\TypesOfInput\TypesOfInput\bin\Debug\TypesOfInput.exe.config
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\TypesOfInput\TypesOfInput\bin\Debug\TypesOfInput.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\TypesOfInput\TypesOfInput\bin\Debug\TypesOfInput.pdb
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\TypesOfInput\TypesOfInput\obj\Debug\TypesOfInput.csproj.AssemblyReference.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\TypesOfInput\TypesOfInput\obj\Debug\TypesOfInput.csproj.CoreCompileInputs.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\TypesOfInput\TypesOfInput\obj\Debug\TypesOfInput.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\Input And Output\TypesOfInput\TypesOfInput\obj\Debug\TypesOfInput.pdb

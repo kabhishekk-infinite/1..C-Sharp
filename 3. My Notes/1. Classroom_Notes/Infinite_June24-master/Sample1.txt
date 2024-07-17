@@ -1,2 +1,0 @@
-This is a sample file for understanding Git Operations
-The file is being reviewed and found ok

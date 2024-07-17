@@ -1,7 +1,0 @@
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\HidingBaseClassMember\bin\Debug\HidingBaseClassMember.exe.config
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\HidingBaseClassMember\bin\Debug\HidingBaseClassMember.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\HidingBaseClassMember\bin\Debug\HidingBaseClassMember.pdb
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\HidingBaseClassMember\obj\Debug\HidingBaseClassMember.csproj.AssemblyReference.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\HidingBaseClassMember\obj\Debug\HidingBaseClassMember.csproj.CoreCompileInputs.cache
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\HidingBaseClassMember\obj\Debug\HidingBaseClassMember.exe
-D:\3. Training Study Materials - ICS\1. C#(.Net with SQL) Training - ICS\3. All Topics\6. Iheritance\Inheritance\HidingBaseClassMember\obj\Debug\HidingBaseClassMember.pdb
